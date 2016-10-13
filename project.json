@@ -1,0 +1,8 @@
+{
+  "name": "uw-aws-html2pdf",
+  "description": "",
+  "memory": 128,
+  "timeout": 60,
+  "role": "arn:aws:iam::581647696645:role/tx_lambda_function",
+  "environment": {}
+}
